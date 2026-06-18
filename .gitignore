@@ -1,0 +1,14 @@
+# SO / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporários
+_tmp*/
+.playwright-mcp/
+*.log
+node_modules/
